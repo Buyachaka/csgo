@@ -1,0 +1,32 @@
+.bitInput {
+  margin-left: 30px;
+  margin-top: 300px;
+  margin-right: 20px;
+}
+#timer {
+  margin-left: 30px;
+}
+
+.input-group-addon {
+  color: white !important;
+  background-color: #34495e !important;
+}
+
+.panel {
+  display: inline-block !important;
+  width: 48% !important;
+  height: 60% !important;
+}
+.buffer {
+  display: inline-block;
+  width: 40px;
+}
+
+.online-counter {
+  width: 9.50% !important;
+  height: 50px !important;
+  margin-left: 30px;
+  margin-top: 10px;
+  background-color: #34495E;
+  border-color: #2C3E50;
+}
